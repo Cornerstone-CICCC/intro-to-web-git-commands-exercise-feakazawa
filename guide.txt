@@ -4,3 +4,4 @@
 
 This project demonstrates basic Git and Github operations.
 
+This project helps to understand Git basics. Pretty cool, right?
